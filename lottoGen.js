@@ -1,5 +1,7 @@
 const arr = []
 
+
+
 while(true) {
 
     const num = parseInt(Math.random() * 45)

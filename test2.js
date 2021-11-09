@@ -11,6 +11,8 @@ try {
 
 
 
+
+
 console.log("가로길이는 얼마인가요? cm")
 const width = parseInt(readLine.prompt())
 

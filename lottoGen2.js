@@ -1,6 +1,8 @@
 
 const arr = []
 
+
+
 for (let i = 1; i <= 45 ; i++) {
     arr.push(i)
 }

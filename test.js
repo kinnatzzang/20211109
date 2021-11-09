@@ -13,6 +13,8 @@ let gap = area1 - area2
 //    gap = gap * -1
 //}
 
+
+
 gap = gap < 0 ? gap * -1 : gap
 gap = gap.toFixed(2)
 
