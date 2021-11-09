@@ -11,6 +11,11 @@ console.log(changedLength)
 
 
 
+
+
+
+
+
 arr.splice(1,1)
 
 console.log(arr)
